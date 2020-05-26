@@ -21,6 +21,6 @@
 **Thoughts** I was feeling very tired when I started. It was late in the evening. But then I had coffee and after reading the concepts I had my dinner. I then felt light headed and went on with solving some coding problems. I could solve the first one but the second one really got me stuck. I got very frustrated and since it was getting late I decided to view the solution. Hope this doesn't repeat often.
 
 **Link(s) to work**
-1. [C++ STL|Set 1(vector)](https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1)
-2. [C++ STL|Set 2(pair)](https://practice.geeksforgeeks.org/problems/c-stl-set-2-pair/1/)
+1. [C++ STL | Set 1 (vector)](https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1)
+2. [C++ STL | Set 2 (pair)](https://practice.geeksforgeeks.org/problems/c-stl-set-2-pair/1/)
 
