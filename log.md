@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: May 26, 2020 
+### Day 1: May 25, 2020 
 [comment]:##### (delete me or comment me out)
 
 **Today's Progress**: Had an overview about the C++ Standard Template Library. Read about templates, algorithms of STL and about the vector container class. Coded four practice problems from Geeks For Geeks on STL.
