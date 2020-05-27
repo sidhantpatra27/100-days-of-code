@@ -33,8 +33,8 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Thoughts** I had a very slow and frustrating start to the day. I could do only 5 easy level questions the entire day. So that is kinda discouraging. I had to refer to solutions more often. I need to improve. Also today really is a very frustrating day and even my temper got me today which normally doesn't happen. Maybe that affected my coding. I really gotta keep working hard and improve my standards. Right now I need to get some sleep as I could only get around 4 hours of sleep the previous day.
 
 **Link(s) to work**
-1. [C++ STL List]https://practice.geeksforgeeks.org/problems/c-stl-list/1/
-2. [C++ STL | Set 4 (stack)]https://practice.geeksforgeeks.org/problems/c-stl-set-4-stack/1/
-3. [C++ STL | Set 5 (queue)]https://practice.geeksforgeeks.org/problems/c-stl-set-5-queue/1/
-4. [Implementing Queue using Array]https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1/
-5. [Queue using two stacks]https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1
+1. [C++ STL List](https://practice.geeksforgeeks.org/problems/c-stl-list/1/)
+2. [C++ STL | Set 4 (stack)](https://practice.geeksforgeeks.org/problems/c-stl-set-4-stack/1/)
+3. [C++ STL | Set 5 (queue)](https://practice.geeksforgeeks.org/problems/c-stl-set-5-queue/1/)
+4. [Implementing Queue using Array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1/)
+5. [Queue using two stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
