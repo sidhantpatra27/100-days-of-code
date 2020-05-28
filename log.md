@@ -38,3 +38,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 3. [C++ STL | Set 5 (queue)](https://practice.geeksforgeeks.org/problems/c-stl-set-5-queue/1/)
 4. [Implementing Queue using Array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1/)
 5. [Queue using two stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+
+
+### Day 4: May 28, 2020, Wednesday
+
+**Today's Progress**: For most of the day I was working on the Python methods and functions worksheet from Udemy. I started learing Python from udemy a while ago and plan to finish it ASAP. That's why I'm doing it sidewise along with Competitive Coding. Today I just finished reading about the STL containers. Practiced two Basic problems on map and set container classes.
+
+**Thoughts**: Today was a slow paced day. Kuni Mamu was here so did'nt study much throughout the day.
+
+**Link(s) to work**
+1. [C++ STL | Set 3 (map)](https://practice.geeksforgeeks.org/problems/c-stl-set-3-map/1)
+2. [C++ STL | Set 6 (set)](https://practice.geeksforgeeks.org/problems/c-stl-set-6-set/1/)
