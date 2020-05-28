@@ -44,7 +44,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Today's Progress**: For most of the day I was working on the Python methods and functions worksheet from Udemy. I started learing Python from udemy a while ago and plan to finish it ASAP. That's why I'm doing it sidewise along with Competitive Coding. Today I just finished reading about the STL containers. Practiced two Basic problems on map and set container classes.
 
-**Thoughts**: Today was a slow paced day. Kuni Mamu was here so did'nt study much throughout the day.
+**Thoughts**: Today was a slow paced day. Kuni Mamu was here so didn't study much throughout the day. I am not following the #100DaysOfCode for Python cause I don't want to spend that much amount of time on it. Rather I plan to start #100DayOfMLCode as soon as I finish the Python tutorial.
 
 **Link(s) to work**
 1. [C++ STL | Set 3 (map)](https://practice.geeksforgeeks.org/problems/c-stl-set-3-map/1)
