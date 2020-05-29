@@ -40,7 +40,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 5. [Queue using two stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
 
 
-### Day 4: May 28, 2020, Wednesday
+### Day 4: May 28, 2020, Thursday
 
 **Today's Progress**: For most of the day I was working on the Python methods and functions worksheet from Udemy. I started learing Python from udemy a while ago and plan to finish it ASAP. That's why I'm doing it sidewise along with Competitive Coding. Today I just finished reading about the STL containers. Practiced two Basic problems on map and set container classes.
 
@@ -49,3 +49,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [C++ STL | Set 3 (map)](https://practice.geeksforgeeks.org/problems/c-stl-set-3-map/1)
 2. [C++ STL | Set 6 (set)](https://practice.geeksforgeeks.org/problems/c-stl-set-6-set/1/)
+
+
+### Day 5: May 29, 2020, Friday
+
+**Today's Progress**: Completed the C++ STL set of practice questions dealing with the basics of STL container classes. Tried a medium level problem on arrays and stuck in it. Deduced a logic in O[n^2] time complexity and the problem obviously asked for better. Referred to a solution in time order O[n]. Implemented it correctly(not 100% sure) and run custom test cases successfully. But it was still not accepted. Need to sort it out tomorrow.
+
+**Thoughts**: Not much thoughts for today. Could solve the basic level container class questions comparatively faster than the previous days. Got stuck in a problem which I will try to figure out tomorrow. It seems highly like an error from the submission rules side.
+
+**Link(s) to work**
+1. [C++ STL | Set 7](https://practice.geeksforgeeks.org/problems/c-stl-set-7-unordered-map/1/)
+2. [C++ STL | Set 8](https://practice.geeksforgeeks.org/problems/c-stl-set-8-unordered-set/1/)
