@@ -60,3 +60,16 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [C++ STL | Set 7](https://practice.geeksforgeeks.org/problems/c-stl-set-7-unordered-map/1/)
 2. [C++ STL | Set 8](https://practice.geeksforgeeks.org/problems/c-stl-set-8-unordered-set/1/)
+
+
+### Day 6: May 30, 2020, Saturday
+
+**Today's Progress**: Was able to debug last day's problem. Solved it with the correct logic(solution from net). Attempted another similar array based question which involved optimizing time complexity while iterating and operating through the array.
+
+**Thoughts**: Today's debugging was comparatively easy as I took help from one of my pro friends to pinpoint the source of error. Due to assignments overload I wasn't able to take on a new topic. Will look forward to learn new concepts from tomorrow.
+
+**Link(s) to work**
+1. [Minimums in Array](https://practice.geeksforgeeks.org/problems/minimums-in-array/0)
+2. [Equal Sum](https://practice.geeksforgeeks.org/problems/equal-sum/0/)
+
+
