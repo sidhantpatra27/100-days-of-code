@@ -73,3 +73,12 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Equal Sum](https://practice.geeksforgeeks.org/problems/equal-sum/0/)
 
 
+### Day 7: May 31, 2020, Sunday
+
+**Today's Progress**: Covered the concepts of Arrays in C/C++. Coded one easy practice problem.
+
+**Thoughts**: I'm quite dissapointed with my progress today. I need to spend more time on coding and implementing algorithms. I need to improve my time management skill and devote more time per day on doing productivity now that I've managed to properly maintain a healthy sleep cycle and self discipline(to much extent) in my life. I can only go better from here on.
+
+**Link(s) to work**
+1. [Play with an array](https://practice.geeksforgeeks.org/problems/play-with-an-array/1)
+
