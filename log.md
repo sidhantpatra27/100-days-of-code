@@ -82,3 +82,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Play with an array](https://practice.geeksforgeeks.org/problems/play-with-an-array/1)
 
+
+### Day 8: Jun 1, 2020, Monday
+
+**Today's Progress**: Practiced two problems on Arrays
+
+**Thoughts**: Yet again dissapointed by my progress today. I don't know how to move ahead. Had assignments to submit so couldn't practice would be an excuse. I really don't feel good. I know I can be better.
+
+**Link(s) to work**
+1. [Reverse array in groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1)
+2. [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/)
