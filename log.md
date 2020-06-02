@@ -92,3 +92,11 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Reverse array in groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1)
 2. [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/)
+
+
+### Day 9: Jun 2, 2020, Tuesday
+
+**Today's Progress**: Covered array rotation, array reversal, the sliding window and prefix sum in arrays.
+
+**Thoughts**: Covered only theory part today. I know it's against the spirit of the challenge not to write down codes, but I did'nt want to refer the solutions again and again. I learnt some new things today. So I want to implement them with a cool and fresh mind tomorrow.
+
