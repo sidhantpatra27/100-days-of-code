@@ -100,3 +100,17 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Thoughts**: Covered only theory part today. I know it's against the spirit of the challenge not to write down codes, but I did'nt want to refer the solutions again and again. I learnt some new things today. So I want to implement them with a cool and fresh mind tomorrow.
 
+
+### Day 10: Jun 3, 2020, Wednesday
+
+**Today's Progress**: Practiced coding problems on Arrays. Basically learning to write down optimized logics which helps to decrease time and space complexities while dealing with the contagious memory locations in arrays.
+
+**Thoughts**: Today indeed I was able to solve the practice probelms vividly with a fresh mind. I recorded my personal highest numbers of coding questions solved today. Relatively content with my progress today compared to the past days.
+
+**Link(s) to work**
+1. [Remove duplicate elements from sorted Array](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)
+2. [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element/0)
+3. [Find Transition Point](https://practice.geeksforgeeks.org/problems/find-transition-point-1587115620/1)
+4. [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
+5. [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
+6. [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array/0) 
