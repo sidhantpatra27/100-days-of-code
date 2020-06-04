@@ -114,3 +114,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 4. [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
 5. [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
 6. [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array/0) 
+
+
+### Day 11: Jun 4, 2020, Thursday
+
+**Today's Progress**: Practiced problems on finding a subarray inside an array totalling to a given sum and finding the subarray with the maximum sum(Kadane's algorithm).
+
+**Thoughts**: Well these two problems took an entire day for me to understand and implement them. But now I've to rush to prepare for an upcoming exam in a few hours :p (Freelancing stuff).
+
+**Link(s) to work**
+1. [Kadane's algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+2. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
