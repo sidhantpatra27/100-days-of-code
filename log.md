@@ -98,7 +98,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Today's Progress**: Covered array rotation, array reversal, the sliding window and prefix sum in arrays.
 
-**Thoughts**: Covered only theory part today. I know it's against the spirit of the challenge not to write down codes, but I did'nt want to refer the solutions again and again. I learnt some new things today. So I want to implement them with a cool and fresh mind tomorrow.
+**Thoughts**: Covered only theory part today. I know it's against the spirit of the challenge not to write down codes, but I didn't want to refer the solutions again and again. I learnt some new things today. So I want to implement them with a cool and fresh mind tomorrow.
 
 
 ### Day 10: Jun 3, 2020, Wednesday
@@ -125,3 +125,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Kadane's algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
 2. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
+
+
+### Day 12: Jun 5, 2020, Friday
+
+**Today's Progress**: Read the theory behind time complexity and auxiliary space. Practiced problems on re-arranging an array without using extra space and the famous Trapping rain water problem using the lower envelope technique for monotonic functions.
+
+**Thoughts**: Like previous days I might have just covered two problems, but the amount of concepts and logics I grasped today was a significant progress for me and an improvement in my thought process.
+
+**Link(s) to work**
+1. [Rearrange an array with O(1) extra space ](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space/0)
+2. [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
