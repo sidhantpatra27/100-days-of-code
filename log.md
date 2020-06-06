@@ -136,3 +136,16 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Rearrange an array with O(1) extra space ](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space/0)
 2. [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+
+
+### Day 13: Jun 6, 2020, Saturday
+
+**Today's Progress**: Covered the concepts of searching. Practiced problems on the same.
+
+**Thoughts**: Was busy with internship work for most part of the day. But I was still able to meet today's learning target. Had a refreshing logic building session today.
+
+**Link(s) to work**
+1. [Square Root](https://practice.geeksforgeeks.org/problems/square-root/1)
+2. [Binary Search](https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1)
+3. [Peak element](https://practice.geeksforgeeks.org/problems/peak-element/1)
+4. [Search in a Sorted and Rotated Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0)
