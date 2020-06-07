@@ -149,3 +149,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Binary Search](https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1)
 3. [Peak element](https://practice.geeksforgeeks.org/problems/peak-element/1)
 4. [Search in a Sorted and Rotated Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0)
+
+
+### Day 14: Jun 7, 2020, Sunday
+
+**Today's Progress**: Covered the theory of Insertion sort, Bubble sort, Selection sort and Quick sort. Implemented the partitioning function of Quicksort.
+
+**Thoughts**: I'm frustrated as I've spent more than 2 hours on Quicksort still I can't fully understand it.
+
+**Link(s) to work**
+1. [Quicksort](https://practice.geeksforgeeks.org/problems/quick-sort/1)
