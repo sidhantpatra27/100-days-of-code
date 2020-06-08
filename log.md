@@ -159,3 +159,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Quicksort](https://practice.geeksforgeeks.org/problems/quick-sort/1)
+
+
+### Day 15: Jun 8, 2020, Monday
+
+**Today's Progress**: Covered and implemented Merge sort. Solved two more coding problem. Union and Intersection of Two Sorted array.
+
+**Thoughts**: I understood the concept of quicksort yesterday before sleeping. And so my frustration vanished. Covering merge sort was easier than I thtought. My coding practice set sail very smoothly today. I could deduce the logic. 
+
+**Link(s) to work**
+1. [Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1)
+2. [Union of Two Sorted Arrays](https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
+3. [Intersection of Two Sorted Arrays](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)(P.S. It's not the actual link to the practice problem as I couldn't find any link accesible to all. I solved it in my placement prep track which isn't accesible to all.)
