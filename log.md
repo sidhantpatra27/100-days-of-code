@@ -170,4 +170,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1)
 2. [Union of Two Sorted Arrays](https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
-3. [Intersection of Two Sorted Arrays](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)(P.S. It's not the actual link to the practice problem as I couldn't find any link accesible to all. I solved it in my placement prep track which isn't accesible to all.)
+3. [Intersection of Two Sorted Arrays](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/) (P.S. It's not the actual link to the practice problem as I couldn't find any link accesible to all. I solved it in my placement prep track which isn't accesible to all.)
+
+
+### Day 16: Jun 9, 2020, Tuesday
+
+**Today's Progress**: Practiced two problems. One was hard level and the other easy. Was trying to implement the counting sort algo in the easy problem but it showed runtime error.
+
+**Thoughts**: The funny thing is I was able to solve the hard problem in minutes while the easy problem took me 2-2.5 hours. I was trying to find a generalized solution but it accepted the lamest solution. Screw my life.
+
+**Link(s) to work**
+1. [Median of Two sorted arrays](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/) (P.S. It's not the actual link to the practice problem as I couldn't find any link accesible to all. I solved it in my placement prep track which isn't accesible to all.)
+2. [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
