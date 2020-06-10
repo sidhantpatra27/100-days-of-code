@@ -182,3 +182,16 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Median of Two sorted arrays](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/) (P.S. It's not the actual link to the practice problem as I couldn't find any link accesible to all. I solved it in my placement prep track which isn't accesible to all.)
 2. [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
+
+
+### Day 17: Jun 10, 2020, Wednesday
+
+**Today's Progress**: Covered the theory of strings in C++. Practiced problems on sorting and basics of strings.
+
+**Thoughts**: I'm going way too slow and being way too lazy. I need to cut out the distraction and dedicate fixed hours towards coding.
+
+**Link(s) to work**
+1. [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms/0)
+2. [Check for Binary](https://practice.geeksforgeeks.org/problems/check-for-binary/1)
+3. [Convert to Roman No](https://practice.geeksforgeeks.org/problems/convert-to-roman-no/1)
+4. [Maximum Occuring Character](https://practice.geeksforgeeks.org/problems/maximum-occuring-character/0)
