@@ -195,3 +195,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Check for Binary](https://practice.geeksforgeeks.org/problems/check-for-binary/1)
 3. [Convert to Roman No](https://practice.geeksforgeeks.org/problems/convert-to-roman-no/1)
 4. [Maximum Occuring Character](https://practice.geeksforgeeks.org/problems/maximum-occuring-character/0)
+
+
+### Day 18: Jun 11, 2020, Thursday
+
+**Today's Progress**: Covered the naive approach of pattern searching in strings in C++. Practiced coding on strings problems. I implemented the second problem but have'nt completely understood it.
+
+**Thoughts**: I seriously need to improve my time management skills and manage all of my workload. I have'nt understood how the ip validation problem works. I'll do it tomorrow. I am heading to prepare for test. Did I tell you I got ditched on Day 11 freelancing stuff. xD
+
+**Link(s) to work**
+1. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0)
+2. [Validate an IP Address](https://practice.geeksforgeeks.org/problems/validate-an-ip-address/1)
+
