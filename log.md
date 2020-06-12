@@ -207,3 +207,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0)
 2. [Validate an IP Address](https://practice.geeksforgeeks.org/problems/validate-an-ip-address/1)
 
+
+### Day 18: Jun 12, 2020, Friday
+
+**Today's Progress**: Practiced a few more coding problems today.
+
+**Thoughts**: It's the same old routine every day. Frustration frustration frustration. Too hard for me to break down the logics. I don't know whether I could survive till the end by forcefully pushing myself to a field where I am still not having any interest in. I think just that I am wasting a lot of time, nearly 6-7 hours per day only on 2-3 questions. I don't quite know if at the end of day my algorithm development skill would improve or not.
+
+**Link(s) to work**
+1. [Missing characters to make a string Pangram](https://www.geeksforgeeks.org/missing-characters-make-string-pangram/)
+2. [Excel Sheet | Part - 1](https://practice.geeksforgeeks.org/problems/excel-sheet/0)
+3. [Remainder with 7](https://practice.geeksforgeeks.org/problems/remainder-with-7/1)
