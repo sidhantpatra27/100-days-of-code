@@ -208,7 +208,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Validate an IP Address](https://practice.geeksforgeeks.org/problems/validate-an-ip-address/1)
 
 
-### Day 18: Jun 12, 2020, Friday
+### Day 19: Jun 12, 2020, Friday
 
 **Today's Progress**: Practiced a few more coding problems today.
 
@@ -218,3 +218,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Missing characters to make a string Pangram](https://www.geeksforgeeks.org/missing-characters-make-string-pangram/)
 2. [Excel Sheet | Part - 1](https://practice.geeksforgeeks.org/problems/excel-sheet/0)
 3. [Remainder with 7](https://practice.geeksforgeeks.org/problems/remainder-with-7/1)
+
+
+### Day 20: Jun 13, 2020, Saturday
+
+**Today's Progress**: Covered the the theory of Rabin-Karp and KMP pattern searching algorithms. Practiced coding problems based on naive pattern searching in strings.
+
+**Thoughts**: Not so frustrating today. But then again had to refer to solutions for all the problems. Also took around 2-2.5 hours. Focus and time management skill can be greatly improved.
+
+**Link(s) to work**
+1. [Implement strstr](https://practice.geeksforgeeks.org/problems/implement-strstr/1)
+2. [Check if strings are rotations of each other or not](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/?ref=rp)
+3. [Isomorphic Strings](https://practice.geeksforgeeks.org/problems/isomorphic-strings/0)
