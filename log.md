@@ -230,3 +230,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Implement strstr](https://practice.geeksforgeeks.org/problems/implement-strstr/1)
 2. [Check if strings are rotations of each other or not](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/?ref=rp)
 3. [Isomorphic Strings](https://practice.geeksforgeeks.org/problems/isomorphic-strings/0)
+
+
+### Day 21: Jun 14, 2020, Sunday
+
+**Today's Progress**: Practiced two coding problems. Again referred to the solutions for solving it.
+
+**Thoughts**: Damn these problems require simple logics but lengths of codes. Two problems took me some 2-3 hours to implement. Python makes it so much easier to implement and play with strings. But then here I'm trying to build up my logic using the C++ object oriented language. I guess it would surely help me understand algorithms right from the core.
+
+**Link(s) to work**
+1. [Longest Substring Without Repeating Characters](https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring/0)
+2. [Multiply two strings](https://practice.geeksforgeeks.org/problems/multiply-two-strings/1)
