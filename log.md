@@ -241,3 +241,16 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Longest Substring Without Repeating Characters](https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring/0)
 2. [Multiply two strings](https://practice.geeksforgeeks.org/problems/multiply-two-strings/1)
+
+
+### Day 22: Jun 15, 2020, Sunday
+
+**Today's Progress**: Practiced a problem on strings to determine if two strings were anagrams. Read about Matrix operations and practiced problems on matrix addition, multiplication and determinant calculation.
+
+**Thoughts**: Did the strings question quickly. Another required the use of Dynamic programming, thus left it for now. Moved on two the matrix operations sections. Could implement addition and multiplication with ease. But finding the determinant took a really long time.
+
+**Link(s) to work**
+1. [Anagram](https://practice.geeksforgeeks.org/problems/anagram/0)
+2. [Adding two matrices](https://practice.geeksforgeeks.org/problems/addition-of-two-square-matrices/0)
+3. [Multiply the matrices](https://practice.geeksforgeeks.org/problems/multiply-matrices/1)
+4. [Determinant of a Matrix](https://www.geeksforgeeks.org/determinant-of-a-matrix/)
