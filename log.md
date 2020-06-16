@@ -254,3 +254,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Adding two matrices](https://practice.geeksforgeeks.org/problems/addition-of-two-square-matrices/0)
 3. [Multiply the matrices](https://practice.geeksforgeeks.org/problems/multiply-matrices/1)
 4. [Determinant of a Matrix](https://www.geeksforgeeks.org/determinant-of-a-matrix/)
+
+
+### Day 23: Jun 16, 2020, Monday
+
+**Today's Progress**: Practiced problems on matrices. Performed matrix transpose, rotation and searching.
+
+**Thoughts**: Today's question were much easier to understand and implement. Sorta sailed through them smoothly.
+
+**Link(s) to work**
+1. [Transpose of Matrix](https://practice.geeksforgeeks.org/problems/transpose-of-matrix/0)
+2. [Rotate by 90 degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree/0)
+3. [Search in a matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0)
