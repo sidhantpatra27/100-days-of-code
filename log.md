@@ -243,7 +243,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Multiply two strings](https://practice.geeksforgeeks.org/problems/multiply-two-strings/1)
 
 
-### Day 22: Jun 15, 2020, Sunday
+### Day 22: Jun 15, 2020, Monday
 
 **Today's Progress**: Practiced a problem on strings to determine if two strings were anagrams. Read about Matrix operations and practiced problems on matrix addition, multiplication and determinant calculation.
 
@@ -256,7 +256,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 4. [Determinant of a Matrix](https://www.geeksforgeeks.org/determinant-of-a-matrix/)
 
 
-### Day 23: Jun 16, 2020, Monday
+### Day 23: Jun 16, 2020, Tuesday
 
 **Today's Progress**: Practiced problems on matrices. Performed matrix transpose, rotation and searching.
 
@@ -266,3 +266,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Transpose of Matrix](https://practice.geeksforgeeks.org/problems/transpose-of-matrix/0)
 2. [Rotate by 90 degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree/0)
 3. [Search in a matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0)
+
+
+### Day 24: Jun 17, 2020, Wednesday
+
+**Today's Progress**: Practiced two coding problems.
+
+**Thoughts**: Didn't put in much efforts. I'm too lazy today.
+
+**Link(s) to work**
+1. [Spirally traversing a matrix ](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
+2. [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element/0)
