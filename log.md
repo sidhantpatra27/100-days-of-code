@@ -277,3 +277,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Spirally traversing a matrix ](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
 2. [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element/0)
+
+
+### Day 25: Jun 18, 2020, Thursday
+
+**Today's Progress**: Started with the bit algorithms and concepts today. Practiced few problems on it.
+
+**Thoughts**: This bit concept is so damn confusing. Will take me a couple more days to fully comprehend.
+
+**Link(s) to work**
+1. [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/0)
+2. [Number is sparse or not](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not/0)
