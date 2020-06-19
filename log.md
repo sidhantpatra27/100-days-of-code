@@ -288,3 +288,17 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/0)
 2. [Number is sparse or not](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not/0)
+
+
+### Day 26: Jun 19, 2020, Friday
+
+**Today's Progress**: Practiced some basic level questions on bit operations which included binary/gray code conversion, checking if a number is power of 2 and manipulating bit difference to change a number.
+
+**Thoughts**: Got my concepts of bit manipulation quite clear and better than the previous day. Basic level questions were easier to deal with and therefore today's practice was not much of a challenge. Although I'm building up my logic day by day.
+
+**Link(s) to work**
+1. [Gray to Binary and Binary to Gray](https://practice.geeksforgeeks.org/problems/gray-to-binary-and-binary-to-gray/0)
+2. [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2/0)
+3. [Gray to Binary equivalent](https://stackoverflow.com/questions/5308856/gray-code-to-binary-code-conversion)
+4. [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference/0)
+
