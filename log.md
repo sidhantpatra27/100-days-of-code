@@ -302,3 +302,16 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 3. [Gray to Binary equivalent](https://stackoverflow.com/questions/5308856/gray-code-to-binary-code-conversion)
 4. [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference/0)
 
+
+### Day 27: Jun 20, 2020, Saturday
+
+**Today's Progress**: Completed the final set of questions on bit manipulation and algorithms.
+
+**Thoughts**: Today I was able to implement the first few problems very easily and without any help. But the last two questions had some god level logic and out of the world maths in it. I tried very hard to understand the logic and implement it and took me a couple of hours before I could do so. But I doubt whether I will remember the logic and maths used after a while, but nevertheless I'm happy to learn some new logic and understand the how powerful bit manipulation can be. 
+
+**Link(s) to work**
+1. [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit/0)
+2. [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit/0)
+3. [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits/0)
+4. [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1)
+5. [Count total set bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits/0)
