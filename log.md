@@ -303,15 +303,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 4. [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference/0)
 
 
-### Day 27: Jun 20, 2020, Saturday
+### Day 28: Jun 21, 2020, Sunday
 
-**Today's Progress**: Completed the final set of questions on bit manipulation and algorithms.
+**Today's Progress**: Started learning about recursion algorithms and practiced problems on the same.
 
-**Thoughts**: Today I was able to implement the first few problems very easily and without any help. But the last two questions had some god level logic and out of the world maths in it. I tried very hard to understand the logic and implement it and took me a couple of hours before I could do so. But I doubt whether I will remember the logic and maths used after a while, but nevertheless I'm happy to learn some new logic and understand the how powerful bit manipulation can be. 
+**Thoughts**: The concept of recursion was a bit mind boggling to understand and so were to implement them in the questions. The Tower of Hanoi was especially the trickiest one.
 
 **Link(s) to work**
-1. [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit/0)
-2. [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit/0)
-3. [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits/0)
-4. [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1)
-5. [Count total set bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits/0)
+1. [Print 1 To N Without Loop](https://www.geeksforgeeks.org/how-will-you-print-numbers-from-1-to-200-without-using-loop/)
+2. [Sum of Digits of a Number](https://practice.geeksforgeeks.org/problems/sum-of-digits/0)
+3. [Nth Fibonacci Number](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number/0)
+4. [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi/0)
