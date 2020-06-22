@@ -314,3 +314,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Sum of Digits of a Number](https://practice.geeksforgeeks.org/problems/sum-of-digits/0)
 3. [Nth Fibonacci Number](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number/0)
 4. [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi/0)
+
+
+### Day 29: Jun 22, 2020, Monday
+
+**Today's Progress**: Practiced two more problems on recursion - The Josephus problem and the subset generation problem.
+
+**Thoughts**: I thought I could solve the remaining problems on recursion today, but I got stuck in these two problems. Took a couple of hours to understand and implement it.
+
+**Link(s) to work**
+1. [Josephus problem](https://practice.geeksforgeeks.org/problems/game-of-death-in-a-circle/0)
+2. [Power Set in Lexicographic order](https://www.geeksforgeeks.org/powet-set-lexicographic-order/#:~:text=The%20idea%20is%20to%20sort,next%20permutation%20can%20be%20generated.)
