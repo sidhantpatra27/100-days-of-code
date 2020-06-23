@@ -325,3 +325,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Josephus problem](https://practice.geeksforgeeks.org/problems/game-of-death-in-a-circle/0)
 2. [Power Set in Lexicographic order](https://www.geeksforgeeks.org/powet-set-lexicographic-order/#:~:text=The%20idea%20is%20to%20sort,next%20permutation%20can%20be%20generated.)
+
+
+### Day 30: Jun 23, 2020, Tuesday
+
+**Today's Progress**: Practiced a final set of problems on Recursion.
+
+**Thoughts**: So I have covered the basics algorithms and syntax of C++14. And it's been a month since I started the challenge. And surprisingly I coded for every single day no matter what. No I haven't come anywhere close to solving the actual competitive problems and neither can I guarantee to solve the problems I practiced this month. But I gained the most important thing required. Perseverance and Self-Discipline. A month back, the old me would never buy the fact that I would actually sit and code for some hours each day. But here I am ;)
+
+**Link(s) to work**
+1. [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
+2. [Lucky Numbers](https://practice.geeksforgeeks.org/problems/lucky-numbers/0)
