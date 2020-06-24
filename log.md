@@ -336,3 +336,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
 2. [Lucky Numbers](https://practice.geeksforgeeks.org/problems/lucky-numbers/0)
+
+
+### Day 31: Jun 24, 2020, Wednesday
+
+**Today's Progress**: Started learning about Linked Lists.
+
+**Thoughts**: Started pretty late today. It's actually 25th of Jun 04:42 right now and I started it near 03:00 xD. Covered just the basics and coded couple of problems.
+
+**Link(s) to work**
+1. [Print Linked List elements](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1)
+2. [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
