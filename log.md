@@ -347,3 +347,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Print Linked List elements](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1)
 2. [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+
+
+### Day 32: Jun 25, 2020, Thursday
+
+**Today's Progress**: Read about the insertion and deletion operations in Linked Lists. Didn't really code anything much today. Just implemented a simple problem.
+
+**Thoughts**: Liverpool have been crowned the Champions and I'm absolutely on top of the world. I feel so elated that I can't think about anything else let alone coding xD.
+
+**Link(s) to work**
+1. [Occurence of an integer in a Linked List](https://practice.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1)
