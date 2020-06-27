@@ -357,3 +357,16 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Occurence of an integer in a Linked List](https://practice.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1)
+
+
+### Day 33: Jun 26, 2020, Friday
+
+**Today's Progress**: Read about double linked list and XOR linked list(Memory efficient). Practiced couple of coding problems on Linked Lists.
+
+**Thoughts**: Slept off previous night so I actually started coding at about 4 AM on 27th. Managed to solve the first problem but second one got me.
+
+**Link(s) to work**
+1. [Pairwise swap elements of a linked list ](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)
+2. [Add two numbers represented by linked lists](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
+
+
