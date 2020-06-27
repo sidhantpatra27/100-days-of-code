@@ -370,3 +370,11 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Add two numbers represented by linked lists](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
 
 
+### Day 34: Jun 27, 2020, Saturday
+
+**Today's Progress**: Read about circular linked lists.
+
+**Thoughts**: For the past couple of days haven't been highly motivated to code. Yet again it is for the sake of this challenge that I pushed myself to atleast read+code for an hour and that is the best part about this challenge. Will definitely pump up from today. There's so much to cover in Linked lists.
+
+**Link(s) to work**
+1. [Sorted insert for circular linked list]https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1
