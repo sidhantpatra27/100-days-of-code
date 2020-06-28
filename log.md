@@ -378,3 +378,17 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Sorted insert for circular linked list]https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1
+
+
+### Day 35: Jun 28, 2020, Sunday
+
+**Today's Progress**: Coded couple of problems from the Linked List track.
+
+**Thoughts**: Yet again I am feeling sleepy and lazy and for some reason also feeling low today. Nothing much to write for today.
+
+**Link(s) to work**
+1. [Intersection Point in Y Shapped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
+2. [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+
+
+
