@@ -401,3 +401,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Split a Circular Linked List into two halves](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1)
 2. [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
 3. [Reverse a Linked List in groups of given size](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+
+
+### Day 37: Jun 30, 2020, Tuesday
+
+**Today's Progress**: Implemented quicksort on Singly Linked list.
+
+**Thoughts**: I copied solution from net. Yet to fully understand  the concept.
+
+**Link(s) to work**
+1. [Quick Sort on Linked List](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1)
