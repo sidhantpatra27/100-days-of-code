@@ -391,4 +391,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
 
 
+### Day 36: Jun 29, 2020, Monday
 
+**Today's Progress**: Practiced coding problems from the Linked List track.
+
+**Thoughts**: I literally started it on 30th morning xD.. But it's so much fun playing with linkedlists. I've started liking this Data Strucure a bit.
+
+**Link(s) to work**
+1. [Split a Circular Linked List into two halves](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1)
+2. [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+3. [Reverse a Linked List in groups of given size](https://leetcode.com/problems/reverse-nodes-in-k-group/)
