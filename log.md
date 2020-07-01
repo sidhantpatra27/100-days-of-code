@@ -411,3 +411,16 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Quick Sort on Linked List](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1)
+
+
+### Day 38: Jul 1, 2020, Wednesday
+
+**Today's Progress**: Practiced few mind bugging problems on Linked Lists. Could derive the logic for easier ones, still require to perfect the syntax and avoid segmentation faults while writing codes.
+
+**Thoughts**: Forced myself yet again to start coding but gradually got an interest in dwelving into today's problems.
+
+**Link(s) to work**
+1. [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)
+2. [Delete Middle of Linked List](https://practice.geeksforgeeks.org/problems/delete-middle-of-linked-list/1)
+3. [Circular Linked List Delete at Position](https://www.geeksforgeeks.org/deletion-at-different-positions-in-a-circular-linked-list/)
+
