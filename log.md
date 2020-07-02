@@ -424,3 +424,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Delete Middle of Linked List](https://practice.geeksforgeeks.org/problems/delete-middle-of-linked-list/1)
 3. [Circular Linked List Delete at Position](https://www.geeksforgeeks.org/deletion-at-different-positions-in-a-circular-linked-list/)
 
+
+### Day 39: Jul 2, 2020, Thursday
+
+**Today's Progress**: Implemented mergesort and quicksort on Doubly Linked L
+
+**Thoughts**: I implemented them by referring to the solutions but I might need to relook the smart logic to properly grasp the concept. The dreaded Linked List track is sorta over now.
+
+**Link(s) to work**
+1. [Merge Sort on Doubly Linked List](https://practice.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1)
+2. [QuickSort on Doubly Linked List](https://practice.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1)
