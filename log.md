@@ -434,3 +434,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Merge Sort on Doubly Linked List](https://practice.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1)
 2. [QuickSort on Doubly Linked List](https://practice.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1)
+
+
+### Day 40: Jul 3, 2020, Friday
+
+**Today's Progress**: Started with Stacks today. Practiced just a simple coding question.
+
+**Thoughts**: Did really very less today. My head is feeling very heavy. Despite gulping one full cup of coffee I don't have my concentration today. Better to start afresh tomorrow.
+
+**Link(s) to work**
+1. [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
