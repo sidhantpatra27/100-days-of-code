@@ -444,3 +444,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
+
+
+### Day 41: Jul 4, 2020, Saturday
+
+**Today's Progress**: Solved 3 practice problems on Stacks which included evaluating postfix expression, sorting a stack and getting minimum of stack in O(1) time.
+
+**Thoughts**: Started early today and tried attempting the problems first. Lack of concentration caused too much time to be devoted to the problems (6-7 hours). I can be better and more focused.
+
+**Link(s) to work**
+1. [Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)
+2. [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
+3. [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
