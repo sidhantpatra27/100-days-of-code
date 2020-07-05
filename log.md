@@ -456,3 +456,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)
 2. [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
 3. [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
+
+
+### Day 42: Jul 5, 2020, Sunday
+
+**Today's Progress**: Solved 3 medium level practice problems on Stacks which included infix to postfix conversion, balanced parantheses checker and Next larger element array.
+
+**Thoughts**: Didn't have the desired focus today but I took my time to write down the code on paper and first attempted to derive any logic without just simply thinking in the head and copying the solutions. Should do more of this henceforth.
+
+**Link(s) to work**
+1. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
+2. [Infix to Postfix](https://practice.geeksforgeeks.org/problems/infix-to-postfix/0)
+3. [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
