@@ -468,3 +468,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
 2. [Infix to Postfix](https://practice.geeksforgeeks.org/problems/infix-to-postfix/0)
 3. [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+
+
+### Day 43: Jul 6, 2020, Monday
+
+**Today's Progress**: Solved 3 medium level practice problems on Stacks which included finding Maximum rectangular area in a histogram, Max rectangle in a binary matrix and the stock span problem.
+
+**Thoughts**: I realize I really don't remember the logic or relate the logic well to get the answers. That's what inhibited my interest in Competitive Programming in the 1st place. I really need to start debugging problems and figuring some logic on my own. I just copy because it takes an awful lot of time.
+
+**Link(s) to work**
+1. [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
+2. [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)
+3. [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
