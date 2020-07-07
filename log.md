@@ -480,3 +480,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
 2. [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)
 3. [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
+
+
+
+### Day 44: Jul 7, 2020, Tuesday
+
+**Today's Progress**: Practiced 1 Hard level problem.
+
+**Thoughts**: Damn I never understand how the logics work like magic for some problems. It's so beautiful but at the same time so difficult to understand and near impossible to deduce the proper intuition behind the algorithms. (For me)
+
+**Link(s) to work**
+1. [Maximum of minimum for every window size](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size/0)
