@@ -491,3 +491,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Maximum of minimum for every window size](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size/0)
+
+
+### Day 45: Jul 8, 2020, Wednesday
+
+**Today's Progress**: Started with Queues data structures.
+
+**Thoughts**: I am feeling so sleepy today cause I didn't sleep over 24 hours :p. Okay bye.
+
+**Link(s) to work**
+1. [Queue Push & Pop](https://practice.geeksforgeeks.org/problems/queue-designer/1)
+2. [Generate Binary Numbers](https://practice.geeksforgeeks.org/problems/generate-binary-numbers/0)
