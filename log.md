@@ -502,3 +502,17 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Queue Push & Pop](https://practice.geeksforgeeks.org/problems/queue-designer/1)
 2. [Generate Binary Numbers](https://practice.geeksforgeeks.org/problems/generate-binary-numbers/0)
+
+
+### Day 45: Jul 8, 2020, Thursday
+
+**Today's Progress**: Solved and practiced some problems from the Queues track.
+
+**Thoughts**: It was really fun doing the questions today but I started late and took a lot of time due to many breaks and distractions. It's literally 5:30 in the morning right now xD.
+
+**Link(s) to work**
+1. [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+2. [Queue using circular array](https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/)
+3. [Maximium Sum](https://practice.geeksforgeeks.org/problems/maximize-the-sum/1/?track=pcc-queue&batchId=221)
+4. [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)
+5. [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1)
