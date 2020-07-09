@@ -504,7 +504,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Generate Binary Numbers](https://practice.geeksforgeeks.org/problems/generate-binary-numbers/0)
 
 
-### Day 45: Jul 8, 2020, Thursday
+### Day 46: Jul 9, 2020, Thursday
 
 **Today's Progress**: Solved and practiced some problems from the Queues track.
 
