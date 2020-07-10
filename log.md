@@ -516,3 +516,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 3. [Maximium Sum](https://practice.geeksforgeeks.org/problems/maximize-the-sum/1/?track=pcc-queue&batchId=221)
 4. [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)
 5. [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1)
+
+
+### Day 47: Jul 10, 2020, Friday
+
+**Today's Progress**: Practiced just a single question today on Dequeue.
+
+**Thoughts**: I'm tired and I feel like giving up and start reading ML. I'm not even sure if I'll get placed.
+
+**Link(s) to work**
+1. [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
