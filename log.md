@@ -526,3 +526,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+
+
+### Day 48: Jul 11, 2020, Saturday
+
+**Today's Progress**: Started reading about hashing techniques. Solved just one basic problem which is equivalent to no coding at all.
+
+**Thoughts**: The hashing concept was somewhat new to me. I had encountered it several times before but only today I learnt what it actually is.
+
+**Link(s) to work**
+1. [Check if two arrays are equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0)
