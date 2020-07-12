@@ -536,3 +536,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Check if two arrays are equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0)
+
+
+### Day 49: Jul 12, 2020, Sunday
+
+**Today's Progress**: Practiced some problems based on the concept of Hashing.
+
+**Thoughts**: The questions weren't that mind boggling as they usually are. Still took a lot of time to solve them. I actually spent quite some time playing and editing my github profile today.
+
+**Link(s) to work**
+1. [Max distance between same elements](https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1)
+2. [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
+3. [Key Pair](https://practice.geeksforgeeks.org/problems/key-pair/0)
