@@ -548,3 +548,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Max distance between same elements](https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1)
 2. [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
 3. [Key Pair](https://practice.geeksforgeeks.org/problems/key-pair/0)
+
+
+### Day 50: Jul 13, 2020, Monday
+
+**Today's Progress**: Practiced some problems based on the concept of Hashing and used maps(basically unordered) for all of them.
+
+**Thoughts**: Practiced quite some decent problems today. What was worth noting was each of the questions using the same unordered map concepts in different ways.
+
+**Link(s) to work**
+1. [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+2. [Print Non-Repeated Elements](https://www.geeksforgeeks.org/non-repeating-element/)
+3. [Count distinct elements in every window](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
