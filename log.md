@@ -560,3 +560,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
 2. [Print Non-Repeated Elements](https://www.geeksforgeeks.org/non-repeating-element/)
 3. [Count distinct elements in every window](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
+
+
+### Day 51: Jul 14, 2020, Tuesday
+
+**Today's Progress**: Started with practising medium level problems on hashing. After practising one was able to solve another problem based on similar concept.
+
+**Thoughts**: Too tired today..
+
+**Link(s) to work**
+1. [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
+2. [Top K Frequent Elements in Array](https://leetcode.com/problems/top-k-frequent-elements/)
