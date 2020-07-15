@@ -571,3 +571,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
 2. [Top K Frequent Elements in Array](https://leetcode.com/problems/top-k-frequent-elements/)
+
+
+### Day 52: Jul 15, 2020, Wednesday
+
+**Today's Progress**: Finished with the Hashing track
+
+**Thoughts**: Too tired today today. Plus feeling very low due to Liverpool's defeat to Arsenal.
+
+**Link(s) to work**
+1. [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0)
+2. [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
+3. [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
