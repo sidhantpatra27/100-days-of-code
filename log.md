@@ -583,3 +583,12 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0)
 2. [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
 3. [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
+
+
+### Day 53: Jul 16, 2020, Thursday
+
+**Today's Progress**: Started with the theory of Trees and Binary trees traversal. Just theory and no coding.
+
+**Thoughts**: I got stuck up in multiple jobs and didn't feel like coding today. Will compensate at later.
+
+**Link(s) to work**
