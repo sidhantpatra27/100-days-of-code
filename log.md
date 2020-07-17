@@ -377,7 +377,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Thoughts**: For the past couple of days haven't been highly motivated to code. Yet again it is for the sake of this challenge that I pushed myself to atleast read+code for an hour and that is the best part about this challenge. Will definitely pump up from today. There's so much to cover in Linked lists.
 
 **Link(s) to work**
-1. [Sorted insert for circular linked list]https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1
+1. [Sorted insert for circular linked list](https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1)
 
 
 ### Day 35: Jun 28, 2020, Sunday
@@ -591,4 +591,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Thoughts**: I got stuck up in multiple jobs and didn't feel like coding today. Will compensate at later.
 
+
+### Day 54: Jul 17, 2020, Friday
+
+**Today's Progress**: Started with practicing basic level problems on Trees.
+
+**Thoughts**: No thoughts really. Should devote more time to coding.
+
 **Link(s) to work**
+1. [Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1)
+2. [Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1)
