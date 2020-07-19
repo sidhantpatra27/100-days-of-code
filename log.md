@@ -601,3 +601,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1)
 2. [Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1)
+
+
+### Day 55: Jul 18, 2020, Saturday
+
+**Today's Progress**: Practiced binary tree problems based on level order traversal.
+
+**Thoughts**: I slept while coding last night. Got up somewhat refreshed and updating the log very late this time xD. I'm beginning to understand more of trees structure now. Yet a lot of things still to learn.
+
+**Link(s) to work**
+1. [Two Mirror Trees](https://practice.geeksforgeeks.org/problems/two-mirror-trees/1)
+2. [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+
