@@ -613,3 +613,12 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Two Mirror Trees](https://practice.geeksforgeeks.org/problems/two-mirror-trees/1)
 2. [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
 
+
+### Day 56: Jul 19, 2020, Sunday
+
+**Today's Progress**: Practiced the sum tree problem.
+
+**Thoughts**: Need to seriously up my pace starting from today.
+
+**Link(s) to work**
+1. [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
