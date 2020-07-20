@@ -622,3 +622,16 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
+
+
+### Day 57: Jul 20, 2020, Monday
+
+**Today's Progress**: Practiced problems on Binary trees, mainly based on recursive calls.
+
+**Thoughts**: Took a lot of time, but finally did 4 problems. That's the spirit !!!!
+
+**Link(s) to work**
+1. [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
+2. [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
+3. [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
+4. [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
