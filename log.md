@@ -635,3 +635,16 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
 3. [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
 4. [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+
+
+### Day 58: Jul 21, 2020, Tuesday
+
+**Today's Progress**: Practiced few more problems on Binary Trees. Also attempted a one-off problem on Strings.
+
+**Thoughts**: Finally I'm beginning to grasp the underlying concept behind Binary Tree structures. Also attempted a practice question provided for the CodeNation test.
+
+**Link(s) to work**
+1. [String with numbers at its end](https://practice.geeksforgeeks.org/problems/string-with-numbers-at-its-end/0)
+2. [Vertical sum](https://practice.geeksforgeeks.org/problems/vertical-sum/1)
+3. [Kth Ancestor in a Tree](https://practice.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1)
+4. [ZigZag Tree Traversal](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1)
