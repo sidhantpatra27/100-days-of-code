@@ -648,3 +648,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Vertical sum](https://practice.geeksforgeeks.org/problems/vertical-sum/1)
 3. [Kth Ancestor in a Tree](https://practice.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1)
 4. [ZigZag Tree Traversal](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1)
+
+
+### Day 59: Jul 22, 2020, Wednesday
+
+**Today's Progress**: Learnt about Insertion and Deletion in Binary Trees.
+
+**Thoughts**: Understanding and implementing took the entire lot of my time. I started very late cause I was watching Liverpool's title party. Feeling quite sleepy now so wrapping up today's progress with just one problem.(It did take me 1+ hr tho)
+
+**Link(s) to work**
+1. [Deletion in a Binary Tree](https://practice.geeksforgeeks.org/problems/deletion-in-a-binary-tree/1)
