@@ -658,3 +658,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Deletion in a Binary Tree](https://practice.geeksforgeeks.org/problems/deletion-in-a-binary-tree/1)
+
+
+### Day 60: Jul 23, 2020, Thursday
+
+**Today's Progress**: Practiced three problems on Binary Trees. Finished with the easy level problems and the only hard level problem in the track.
+
+**Thoughts**: The hard problem was quite tough to comprehend. There was probably some logic error in my written code so it didn't run as expected. So I got frustrated after some 1+ hr of debugging and copy pasted the solution.
+
+**Link(s) to work**
+1. [Check if Tree is Isomorphic](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1)
+2. [Children Sum Parent](https://practice.geeksforgeeks.org/problems/children-sum-parent/1)
+3. [Number of Turns in Binary Tree](https://practice.geeksforgeeks.org/problems/number-of-turns-in-binary-tree/1)
