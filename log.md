@@ -670,3 +670,27 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Check if Tree is Isomorphic](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1)
 2. [Children Sum Parent](https://practice.geeksforgeeks.org/problems/children-sum-parent/1)
 3. [Number of Turns in Binary Tree](https://practice.geeksforgeeks.org/problems/number-of-turns-in-binary-tree/1)
+
+
+### Day 61: Jul 24, 2020, Friday
+
+**Today's Progress**: Finished with the Trees track by completing the three medium level problems.
+
+**Thoughts**: The questions were difficult to understand and implement. I doubt if I can ever be a Software Developer.
+
+**Link(s) to work**
+1. [Construct Binary Tree from Parent Array](https://practice.geeksforgeeks.org/problems/construct-binary-tree-from-parent-array/1)
+2. [Min distance between two given nodes of a Binary Tree](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)
+3. [Duplicate subtree in Binary Tree](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1)
+
+
+### Day 62: Jul 25, 2020, Saturday
+
+**Today's Progress**: Started practicing previous year CodeNation problems for the Online Test on Monday.
+
+**Thoughts**: I really don't think that I can crack any online test for the next 3-4 months.
+
+**Link(s) to work**
+1. [Rotating an Array](https://practice.geeksforgeeks.org/problems/reversal-algorithm/0)
+2. [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
+
