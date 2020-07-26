@@ -694,3 +694,16 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Rotating an Array](https://practice.geeksforgeeks.org/problems/reversal-algorithm/0)
 2. [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
 
+
+### Day 63: Jul 26, 2020, Sunday
+
+**Today's Progress**: Started practicing previous year SAP Labs problems for the Online Test on Monday.
+
+**Thoughts**: The questions I solved were basic and easy. Will start with another round of preparation tomorrow morning. I highly doubt whether I can clear any interview.
+
+**Link(s) to work**
+1. [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
+2. [Bleak Numbers](https://practice.geeksforgeeks.org/problems/bleak-numbers/0)
+3. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0)
+4. [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces/0)
+5. [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest/0)
