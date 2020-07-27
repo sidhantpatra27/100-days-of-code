@@ -707,3 +707,12 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 3. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0)
 4. [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces/0)
 5. [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest/0)
+
+
+### Day 64: Jul 27, 2020, Monday
+
+**Today's Progress**: Appeared for two Coding based Online Tests - SAP Labs and CodeNation
+
+**Thoughts**: On a first glance I got nervous seeing the questions as usual. But upon re reading the questions I could eventually understand and think of some logic. I implemented the simplest of the solutions in the questions. Some questions I could fully solve and others I passed some Tcs. Will elaborate at a later date. Didn't qualify for SAP Labs and CodeNation test is to be redone.
+
+**Link(s) to work**
