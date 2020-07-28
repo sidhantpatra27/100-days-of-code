@@ -303,6 +303,20 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 4. [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference/0)
 
 
+### Day 27: Jun 20, 2020, Saturday
+
+**Today's Progress**: Practiced the final set of problems on Bit Magic to finish the track.
+
+**Thoughts**: Idk how but this day's progress wasn't committed or rather I might have forgotten to update. But I am updating it much later, on 28th  July, when it came to my notice. I feel those questions were difficult to implement, one of them involving high level maths.
+
+**Link(s) to work**
+1. [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit/0)
+2. [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit/0)
+3. [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits/0)
+4. [Count total set bits](https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/)
+5. [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1)
+
+
 ### Day 28: Jun 21, 2020, Sunday
 
 **Today's Progress**: Started learning about recursion algorithms and practiced problems on the same.
@@ -716,3 +730,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Thoughts**: On a first glance I got nervous seeing the questions as usual. But upon re reading the questions I could eventually understand and think of some logic. I implemented the simplest of the solutions in the questions. Some questions I could fully solve and others I passed some Tcs. Will elaborate at a later date. Didn't qualify for SAP Labs and CodeNation test is to be redone.
 
 **Link(s) to work**
+
+
+### Day 65: Jul 28, 2020, Tuesday
+
+**Today's Progress**: Started learning about Binary Search trees.
+
+**Thoughts**: Was contacted by my Placement cell guys that I did a huge mistake by mentioning about the companies I appeared for Online Tests on social media platform. Ain't feeling nervous or guilty, but not really in a positive mood. Practiced just some beginner level questions on BST.
+
+**Link(s) to work**
+1. [Minimum element in BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1)
+2. [Kth largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)
