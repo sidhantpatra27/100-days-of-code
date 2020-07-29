@@ -741,3 +741,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Minimum element in BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1)
 2. [Kth largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)
+
+
+### Day 66: Jul 28, 2020, Tuesday
+
+**Today's Progress**: Practiced a couple of problems on BST.
+
+**Thoughts**: Couldn't start coding on time and I always leave it for late night. Anyways implemented two problems, the later one took a lot of time to understand. Also,  Hema akka got placed in SAP Labs today. Much happy. At the same time the placement time depression and anxiety is slowly catching up on my nerves.
+
+**Link(s) to work**
+1. [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
+2. [Construct BST from Postorder](https://practice.geeksforgeeks.org/problems/construct-bst-from-post-order/1)
