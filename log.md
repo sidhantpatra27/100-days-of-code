@@ -752,3 +752,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
 2. [Construct BST from Postorder](https://practice.geeksforgeeks.org/problems/construct-bst-from-post-order/1)
+
+
+### Day 67: Jul 29, 2020, Wednesday
+
+**Today's Progress**: Practiced a couple more problems dealing basically with insertion and deletion in BST.
+
+**Thoughts**: Had planned to solve all of the easy level questions today, could manage only half.
+
+**Link(s) to work**
+1. [Delete nodes greater than k](https://practice.geeksforgeeks.org/problems/delete-nodes-greater-than-k/1)
+2. [Change of Key in BST](https://practice.geeksforgeeks.org/problems/implement-change-key-in-bst/1)
