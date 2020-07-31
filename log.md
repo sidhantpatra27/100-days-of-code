@@ -763,3 +763,12 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Delete nodes greater than k](https://practice.geeksforgeeks.org/problems/delete-nodes-greater-than-k/1)
 2. [Change of Key in BST](https://practice.geeksforgeeks.org/problems/implement-change-key-in-bst/1)
+
+
+### Day 68: Jul 30, 2020, Thursday
+
+**Today's Progress**: Attempted the Udaan Hiring challenge and a practice Placement test by Coding Ninjas.
+
+**Thoughts**: Had been instructed to design an API for a Movie Ticket Booking system in Udaan challenge. Tried doing something. Copy pasted a code from Github. But nothing worked in the end. For the second test, couldn't solve the apti part quick enough. Took help from Internet to get answers for various output kind of questions. There were two coding questions. Tried thinking of some logic. But became too lazy to implement and run something. Was very tired by the end so couldn't continue with the BST Track.
+
+**Link(s) to work**
