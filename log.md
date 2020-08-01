@@ -743,7 +743,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Kth largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)
 
 
-### Day 66: Jul 28, 2020, Tuesday
+### Day 66: Jul 29, 2020, Wednesday
 
 **Today's Progress**: Practiced a couple of problems on BST.
 
@@ -754,7 +754,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Construct BST from Postorder](https://practice.geeksforgeeks.org/problems/construct-bst-from-post-order/1)
 
 
-### Day 67: Jul 29, 2020, Wednesday
+### Day 67: Jul 30, 2020, Thursday
 
 **Today's Progress**: Practiced a couple more problems dealing basically with insertion and deletion in BST.
 
@@ -765,10 +765,21 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Change of Key in BST](https://practice.geeksforgeeks.org/problems/implement-change-key-in-bst/1)
 
 
-### Day 68: Jul 30, 2020, Thursday
+### Day 68: Jul 31, 2020, Friday
 
 **Today's Progress**: Attempted the Udaan Hiring challenge and a practice Placement test by Coding Ninjas.
 
 **Thoughts**: Had been instructed to design an API for a Movie Ticket Booking system in Udaan challenge. Tried doing something. Copy pasted a code from Github. But nothing worked in the end. For the second test, couldn't solve the apti part quick enough. Took help from Internet to get answers for various output kind of questions. There were two coding questions. Tried thinking of some logic. But became too lazy to implement and run something. Was very tired by the end so couldn't continue with the BST Track.
 
 **Link(s) to work**
+
+
+### Day 69: Aug 1, 2020, Saturday
+
+**Today's Progress**: Attempted the CodeNation retest and did a couple of problems to finish with the Easy questions in BST track.
+
+**Thoughts**: The CodeNation test was really really really tough for me. Couldn't understand two of the questions in the first place. After I did tho, couldn't think of a logic. For the third question, spent almost entireity of my time in that. Still just managed to pass 7/14 Test cases and got TLE for rest. It was bad. Did manage to practice two questions of BST later in the evening. Taking a detox from social media in hope of increasing productivity.
+
+**Link(s) to work**
+1. [Normal BST to Balanced BST](https://practice.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1)
+2. [Closest Neighbor in BST](https://practice.geeksforgeeks.org/problems/closest-neighbor-in-bst/1)
