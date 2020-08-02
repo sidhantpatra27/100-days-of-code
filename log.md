@@ -783,3 +783,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Normal BST to Balanced BST](https://practice.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1)
 2. [Closest Neighbor in BST](https://practice.geeksforgeeks.org/problems/closest-neighbor-in-bst/1)
+
+
+### Day 70: Aug 2, 2020, Sunday
+
+**Today's Progress**: Started with the medium level questions in BST track. Did 3 questions.
+
+**Thoughts**: Solved the first problem quickly. The later two took some thinking and eventually referring the solution. Learnt that a function that has return type as "int" can be called without assigning the function call to an integer variable. The function just had return 0 everyhwhere. Need to check out what this actually is. (Code in Work 3)
+
+**Link(s) to work**
+1. [Count BST nodes that lie in a given range ](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
+2. [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+3. [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
