@@ -795,3 +795,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Count BST nodes that lie in a given range ](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
 2. [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
 3. [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
+
+
+### Day 71: Aug 3, 2020, Monday
+
+**Today's Progress**: Finished with the medium level questions with a couple of mind boggling question. Read about a new concept - [Catalan Numbers](https://www.geeksforgeeks.org/program-nth-catalan-number/)
+
+**Thoughts**: Had to refer solutions for both problems. I'm feeling dizzy. Catalan Numbers was a new concept I came across. Haven't really understood the second question. Bye.
+
+**Link(s) to work**
+1. [Ceil in BST](https://practice.geeksforgeeks.org/problems/implementing-ceil-in-bst/1)
+2. [Unique BST's](https://practice.geeksforgeeks.org/problems/unique-bsts/0)
