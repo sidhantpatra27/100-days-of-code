@@ -806,3 +806,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Ceil in BST](https://practice.geeksforgeeks.org/problems/implementing-ceil-in-bst/1)
 2. [Unique BST's](https://practice.geeksforgeeks.org/problems/unique-bsts/0)
+
+
+### Day 72: Aug 4, 2020, Tuesday
+
+**Today's Progress**: Finished with the BST Track on Geeks for Geeks by practicing the final hard problem.
+
+**Thoughts**: Started very late as I got involved in a freelancing gig. This hard problem was easy to understand and moderate level to implement. A very cool trick was used which was great thinking. Overally I think, for any tree based problem, recursion is a must. 
+
+**Link(s) to work**
+1. [Fixing Two nodes of a BST ](https://practice.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1)
