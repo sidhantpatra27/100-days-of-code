@@ -816,3 +816,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Fixing Two nodes of a BST ](https://practice.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1)
+
+
+### Day 73: Aug 5, 2020, Wednesday
+
+**Today's Progress**: Started with Heaps track on GFG. Covered Heap Operations and Heap Sort.
+
+**Thoughts**: Earlier all these sounded very hi-fi to me and I was scared to read about them. Now I am beginning to understand these concepts gradually.
+
+**Link(s) to work**
+1. [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1)
+2. [Binary Heap Operations](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
