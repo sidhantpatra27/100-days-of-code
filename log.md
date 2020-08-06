@@ -829,7 +829,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Binary Heap Operations](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 
 
-### Day 75: Aug 6, 2020, Thursday
+### Day 74: Aug 6, 2020, Thursday
 
 **Today's Progress**: Read about Huffman coding and decoding and implemented the code for decoding.
 
