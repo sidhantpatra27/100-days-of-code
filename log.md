@@ -827,3 +827,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1)
 2. [Binary Heap Operations](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
+
+
+### Day 75: Aug 6, 2020, Thursday
+
+**Today's Progress**: Read about Huffman coding and decoding and implemented the code for decoding.
+
+**Thoughts**: This was a really interesting read and it is a nice experience learning about new concepts daily. Although this one concept took my entire time today.
+
+**Link(s) to work**
+1. [Huffman Decoding](https://practice.geeksforgeeks.org/problems/huffman-decoding/1)
