@@ -837,3 +837,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Huffman Decoding](https://practice.geeksforgeeks.org/problems/huffman-decoding/1)
+
+
+### Day 75: Aug 7, 2020, Friday
+
+**Today's Progress**: Implemented MinHeaps for finding kth largest/smallest element in an array.
+
+**Thoughts**: Took a lot of time when I shouldn't have. Got distracted by UCL matches. I want to be more focused.
+
+**Link(s) to work**
+1. [Kth largest element](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
