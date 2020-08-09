@@ -848,3 +848,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Kth largest element](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
+
+### Day 76: Aug 7, 2020, Saturday
+
+**Today's Progress**: Practiced a couple of problems where I used priority queues to implement heaps.
+
+**Thoughts**: STL makes life so much easier.
+
+**Link(s) to work**
+1. [Nearly Sorted Algorithm](https://practice.geeksforgeeks.org/problems/nearly-sorted-algorithm/0)
+2. [K Most occurring elements](https://leetcode.com/problems/top-k-frequent-elements/)
