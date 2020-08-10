@@ -869,3 +869,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
 2. [Merge k Sorted Arrays](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
+
+
+### Day 78: Aug 10, 2020, Sunday
+
+**Today's Progress**: Attempted the hard level problem to finish with the Heaps Track.
+
+**Thoughts**: Heaps is based on simple concept but has so many uses. I just want to repeat this fact again and again.
+
+**Link(s) to work**
+1. [Find median in a stream ](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
