@@ -879,3 +879,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Find median in a stream ](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
+
+
+### Day 79: Aug 11, 2020, Monday
+
+**Today's Progress**: Started with the basics of Graph theory. Practiced BFS and DFS traversals.
+
+**Thoughts**: Graph is supposed to be the hardest of the data structures. Let's see how this track goes.
+
+**Link(s) to work**
+1. [BFS of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
+2. [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
