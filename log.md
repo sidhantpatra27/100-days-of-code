@@ -890,3 +890,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [BFS of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
 2. [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
+
+
+### Day 80: Aug 12, 2020, Tuesday
+
+**Today's Progress**: Attempted practice problem on detecting loops in undirected/directed graphs.
+
+**Thoughts**: It was har to comprehend. Too tired today. Will give it a shot later tomorrow to understand the code.
+
+**Link(s) to work**
+1. [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
+2. [Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
