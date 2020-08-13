@@ -860,7 +860,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [K Most occurring elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 
-### Day 77: Aug 9, 2020, Saturday
+### Day 77: Aug 9, 2020, Sunday
 
 **Today's Progress**: Practiced a couple of medium level problems from Heaps, the final medium ones in the track. 
 
@@ -871,7 +871,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Merge k Sorted Arrays](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
 
 
-### Day 78: Aug 10, 2020, Sunday
+### Day 78: Aug 10, 2020, Monday
 
 **Today's Progress**: Attempted the hard level problem to finish with the Heaps Track.
 
@@ -881,7 +881,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Find median in a stream ](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 
 
-### Day 79: Aug 11, 2020, Monday
+### Day 79: Aug 11, 2020, Tuesday
 
 **Today's Progress**: Started with the basics of Graph theory. Practiced BFS and DFS traversals.
 
@@ -892,7 +892,7 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
 
 
-### Day 80: Aug 12, 2020, Tuesday
+### Day 80: Aug 12, 2020, Wednesday
 
 **Today's Progress**: Attempted practice problem on detecting loops in undirected/directed graphs.
 
@@ -901,3 +901,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
 2. [Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
+
+
+### Day 81: Aug 13, 2020, Thursday
+
+**Today's Progress**: Practiced couple of problems on graphs - Topological sorting and Counting number of connected components in a undirected graph based on DFS approach.
+
+**Thoughts**: Implemented the code like a dead robot. Idk what that means but that's what I'm feeling like. There's the concept of the later problem I need to understand. Diverted a huge amount of my time playing games today.
+
+**Link(s) to work**
+1. [Topological sort ](https://practice.geeksforgeeks.org/problems/topological-sort/1)
+2. [Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)
