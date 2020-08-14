@@ -912,3 +912,12 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Topological sort ](https://practice.geeksforgeeks.org/problems/topological-sort/1)
 2. [Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)
+
+
+### Day 82: Aug 14, 2020, Friday
+
+**Today's Progress**: Tried to revise the concepts I had studied about Graphs previously.
+
+**Thoughts**: Nothing much done today. No coding. Nothing new learnt. Have two OTs tomorrow. Have to call it off for now.
+
+**Link(s) to work**
