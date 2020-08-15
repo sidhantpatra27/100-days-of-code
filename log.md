@@ -921,3 +921,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Thoughts**: Nothing much done today. No coding. Nothing new learnt. Have two OTs tomorrow. Have to call it off for now.
 
 **Link(s) to work**
+
+
+### Day 83: Aug 15, 2020, Saturday
+
+**Today's Progress**: Did another problem on connected components in a graph using DFS approach. Finally understood it. Tried to implement Kosaraju's algo for strongly connected components. Yet to understand it completely.
+
+**Thoughts**: It's a great feeling when you understand something. But it's equally frustrating when you come across another confusing concept immediately. 
+
+**Link(s) to work**
+1. [Unit Area of largest region of 1's](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s/0)
+2. [Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
