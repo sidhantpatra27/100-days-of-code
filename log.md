@@ -932,3 +932,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Unit Area of largest region of 1's](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s/0)
 2. [Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
+
+
+### Day 84: Aug 16, 2020, Sunday
+
+**Today's Progress**: Read and implemented Dijkstra's Greedy algorithm for shortest path between nodes in a graph. Then read how Bellman-Ford's recursive approach overcomes the shortcomings of Dijkstra's algo.
+
+**Thoughts**: Learned about one of the most popular and important algorithm in Data Structure. Implementing it using STL made it easier. But will be looking forwawrd to implement it from scratch someday.
+
+**Link(s) to work**
+1. [Implementing Dijkstra | Set 1 (Adjacency Matrix)](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
