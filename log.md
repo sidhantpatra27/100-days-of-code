@@ -942,3 +942,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Implementing Dijkstra | Set 1 (Adjacency Matrix)](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
+
+
+### Day 85: Aug 17, 2020, Monday
+
+**Today's Progress**: Read about Prim and Kruskal's algorithm for minimum spanning tree. Practiced a problem - "Rotten Oranges" which used BFS approach to determine the time for all the oranges to rot away in a graph based crate representation.
+
+**Thoughts**: Spent more time learning the concept than coding, but it was worth it.
+
+**Link(s) to work**
+1. [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
