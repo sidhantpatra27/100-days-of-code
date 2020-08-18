@@ -952,3 +952,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
+
+
+### Day 86: Aug 18, 2020, Tuesday
+
+**Today's Progress**: Completed with the Graph track on Geeks for Geeks PPC Course. Practiced two interesting questions related to BFS and DFS traversal of graphs.
+
+**Thoughts**: Graph was probably the only track where I couldn't complete a single problem from myself. I have to keep grasping the concepts and practice more and more so that I am able to do grpah based questions.
+
+**Link(s) to work**
+1. [Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight/0)
+2. [Word Boggle](https://practice.geeksforgeeks.org/problems/word-boggle/0)
