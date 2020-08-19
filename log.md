@@ -963,3 +963,16 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight/0)
 2. [Word Boggle](https://practice.geeksforgeeks.org/problems/word-boggle/0)
+
+
+### Day 87: Aug 19, 2020, Wednesday
+
+**Today's Progress**: Started and completed with the Greedy algorithm track. Practiced 4 problems.
+
+**Thoughts**: Initially thought that Greedy algorithms would take some time but after doing the concept seemed rather easy to implement and understandable.
+
+**Link(s) to work**
+1. [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack/0)
+2. [Largest number with given sum](https://practice.geeksforgeeks.org/problems/largest-number-with-given-sum/0)
+3. [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0)
+4. [Huffman Decoding](https://practice.geeksforgeeks.org/problems/huffman-decoding/1)
