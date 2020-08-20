@@ -976,3 +976,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 2. [Largest number with given sum](https://practice.geeksforgeeks.org/problems/largest-number-with-given-sum/0)
 3. [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0)
 4. [Huffman Decoding](https://practice.geeksforgeeks.org/problems/huffman-decoding/1)
+
+
+### Day 88: Aug 20, 2020, Thursday
+
+**Today's Progress**: Started practicing Dynamic Programming questions. Practiced couple of problems.
+
+**Thoughts**: My whole life was a lie !! Till date I used to think DP was just clever use of the recursion function. Got to know the differences today. And got stuck way too long in understanding and implemneting the second problem.
+
+**Link(s) to work**
+1. [Print first n Fibonacci Numbers](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers/0)
+2. [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
