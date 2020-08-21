@@ -987,3 +987,15 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Print first n Fibonacci Numbers](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers/0)
 2. [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
+
+
+### Day 89: Aug 21, 2020, Friday
+
+**Today's Progress**: Practiced a few more problems on DP. Was trying to gain intuition of a DP algorithm.
+
+**Thoughts**: Getting intuition of a DP problem is really tough for me right now. Need lots of practice.
+
+**Link(s) to work**
+1. [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents/0)
+2. [Coin Change - Number of ways](https://practice.geeksforgeeks.org/problems/coin-change/0)
+3. [Coin Change - Minimum number of coins](https://practice.geeksforgeeks.org/problems/number-of-coins/0)
