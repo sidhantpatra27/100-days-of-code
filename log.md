@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: 21 August 2020 (Friday)
-##### (delete me or comment me out)
+##### (Front End Web Development)
 
 **Today's Progress**: 
 Implemented HTML in making a Ugly Front End 😂 which includes Images, Videos, Audio (with user control), Used Tables for displaying Name, Rollno, Syllabus Completed (using progress tag) and Grades expected (using meter tag). 
