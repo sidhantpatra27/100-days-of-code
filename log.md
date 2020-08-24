@@ -19,3 +19,12 @@ Tried Implementing all the Tags Of HTML mentioned in w3schools
 **Thoughts:** - Completed HTML ,Its Really Very Easy ,Tomorrow I Will Start Learning CSS to make my Ugly looking website beautiful
 
 **Link to work:** (https://www.w3schools.com/TAGs)
+### Day 3: 23 August 2020 (Sunday)
+##### (Front End Web Development)
+
+**Today's Progress**: 
+ Got a Basic Overview Of CSS.
+Learnt about External and Internal CSS. And Tried Implementing Some Tags Too
+
+**Thoughts:** - Will Try To Learn and Implement all the Other Tags within a Week
+
