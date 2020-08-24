@@ -26,3 +26,12 @@ Tried Implementing all the Tags Of HTML mentioned in w3schools
 Learnt about External and Internal CSS. And Tried Implementing Some Tags Too
 
 **Thoughts:** - Will Try To Learn and Implement all the Other Tags within a Week
+
+### Day 3: 24 August 2020 (Monday)
+##### (Front End Web Development)
+
+**Today's Progress**: 
+ Learnt about Styling Of Text,Inline and Block elements, and Some Other Tags( overflow, float, display, table, grid, flexbox) etc
+
+**Thoughts:** - Will Try To Learn and Implement all the Other Tags within this Week
+
