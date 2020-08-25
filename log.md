@@ -35,7 +35,7 @@ Learnt about External and Internal CSS. And Tried Implementing Some Tags Too
 
 **Thoughts:** - Will Try To Learn and Implement all the Other Tags within this Week
 
-### Day 5: 25 August 2020 (Monday)
+### Day 5: 25 August 2020 (Tuesday)
 ##### (Front End Web Development)
 
 **Today's Progress**: 
