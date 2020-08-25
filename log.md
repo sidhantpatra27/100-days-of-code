@@ -44,6 +44,7 @@ Styled Links and Lists
 Learnt about Advance selectors  Attribute selectors, id and class selectors. 
 
 **Thoughts:** - It got escalated too quickly It Seems interesting styling the website.
+
 **Link to work:** (https://www.w3schools.com/cssref/)
 
 
