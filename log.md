@@ -27,11 +27,25 @@ Learnt about External and Internal CSS. And Tried Implementing Some Tags Too
 
 **Thoughts:** - Will Try To Learn and Implement all the Other Tags within a Week
 
-### Day 3: 24 August 2020 (Monday)
+### Day 4: 24 August 2020 (Monday)
 ##### (Front End Web Development)
 
 **Today's Progress**: 
  Learnt about Styling Of Text,Inline and Block elements, and Some Other Tags( overflow, float, display, table, grid, flexbox) etc
 
 **Thoughts:** - Will Try To Learn and Implement all the Other Tags within this Week
+
+### Day 5: 25 August 2020 (Monday)
+##### (Front End Web Development)
+
+**Today's Progress**: 
+Implemented The Box Model
+Styled Links and Lists
+Learnt about Advance selectors  Attribute selectors, id and class selectors. 
+
+**Thoughts:** - It got escalated too quickly It Seems interesting styling the website.
+**Link to work:** (https://www.w3schools.com/cssref/)
+
+
+
 
