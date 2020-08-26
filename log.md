@@ -46,7 +46,14 @@ Learnt about Advance selectors  Attribute selectors, id and class selectors.
 **Thoughts:** - It got escalated too quickly It Seems interesting styling the website.
 
 **Link to work:** (https://www.w3schools.com/cssref/)
+### Day 6: 26 August 2020 (Wednesday)
+##### (Front End Web Development)
 
+**Today's Progress**: 
+Learnt About the Accessibility of a Website and Tried Designing A Custom Website. 
 
+**Thoughts:** - It Was a Bit Tough To Recall about all the tags Which i Learnt Earlier, Referring to Notes and Google I Tried Making a somewhat okayish type website 😂
+
+**Link to work:** (https://www.w3schools.com/cssref/)
 
 
