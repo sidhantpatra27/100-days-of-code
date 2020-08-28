@@ -55,5 +55,14 @@ Learnt About the Accessibility of a Website and Tried Designing A Custom Website
 **Thoughts:** - It Was a Bit Tough To Recall about all the tags Which i Learnt Earlier, Referring to Notes and Google I Tried Making a somewhat okayish type website 😂
 
 **Link to work:** (https://www.w3schools.com/cssref/)
+### Day 7: 27 August 2020 (Thursday)
+##### (Front End Web Development)
+
+**Today's Progress**: 
+Learnt About Pseudo Classes,Pseudo Elements,Transistions and Positioning and At the End Tried Making A Static Average Looking Website
+
+**Thoughts:** - It May take 1 or 2 Days More To Complete CSS
+
+**Link to work:** (https://www.w3schools.com/cssref/)
 
 
