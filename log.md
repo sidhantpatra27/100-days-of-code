@@ -64,5 +64,14 @@ Learnt About Pseudo Classes,Pseudo Elements,Transistions and Positioning and At 
 **Thoughts:** - It May take 1 or 2 Days More To Complete CSS
 
 **Link to work:** (https://www.w3schools.com/cssref/)
+### Day 8: 28 August 2020 (Friday)
+##### (Front End Web Development)
+
+**Today's Progress**: 
+Learnt About How To Style A Table and How to Create Navigation Bar,And tried making 4-5 Design of both
+
+**Thoughts:** - I Will Try To complete CSS Within the Next Day
+
+**Link to work:** (https://www.w3schools.com/cssref/)
 
 
